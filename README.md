@@ -27,3 +27,7 @@ An AI-powered Resume Parser built using Python, Streamlit, and NLP.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Live Demo
+https://ai-resume-parser-ywzjkkfnq6k9xj6ibt4nz8.streamlit.app/
+## GitHub Repository
+https://github.com/Suryadev-mn/AI-Resume-Parser
